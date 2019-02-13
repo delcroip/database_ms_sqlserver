@@ -1,0 +1,2 @@
+FROM mcr.microsoft.com/mssql/server:2017-latest
+COPY setupIMISDB.sh /tmp/setupIMISDB.sh
